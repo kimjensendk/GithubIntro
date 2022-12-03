@@ -7,3 +7,4 @@ cherries
 carrots
 1. tilføjelse
 2. rettelse
+Jakes rettelse 
