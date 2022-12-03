@@ -5,3 +5,4 @@ appelsin
 banan
 cherries
 carrots
+1. tilføjelse
